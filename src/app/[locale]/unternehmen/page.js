@@ -102,7 +102,7 @@ const Page = () => {
             <div className="unter-about-boxs">
               {t.raw("section4.boxes").map((point, idx) => {
                 return (
-                  <div className="unter-about-box">
+                  <div className="unter-about-box" key={idx}>
                     <div className="unter-about-no">{idx + 1}</div>
                     <div className="unter-about-text">
                       <p>{point}</p>
