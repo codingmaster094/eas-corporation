@@ -5,7 +5,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: '/en',
+        destination: '/de',
         permanent: false, // temporary redirect (307)
       },
     ];
