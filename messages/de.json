@@ -1,0 +1,375 @@
+{
+  "Header": {
+    "menu": {
+      "home": "STARTSEITE",
+      "unternehmen": "UNTERNEHMEN",
+      "team": "TEAM",
+      "portfolio": "PRODUKT UND LEISTUNGS-PORTFOLIO",
+      "kontakt": "KONTAKT",
+      "dokumente": "DOKUMENTE",
+      "technology": "EAS Technology Mapp"
+    }
+  },
+  "HeroBanner": {
+    "title": "EAS Cockpit®: Steigern Sie die Rentabilität mit Präzision.",
+    "description": "Echtzeit-Big-Data- und KI-Analysen Ihrer Produkte und Projekte, um Margen, Teileverfügbarkeit sicherzustellen und strategische Entscheidungen zu unterstützen."
+  },
+  "AnalyticsSection": {
+    "subtitle": "WARUM SIE SICH AUF UNS VERLASSEN KÖNNEN",
+    "title": "Warum Enterprise Analytics wählen?",
+    "paragraph1": "Die Enterprise Analytics Software GmbH entwickelt, adaptiert und betreibt KI-gestützte Analyse-, Monitoring- und Management-Software-Lösungen für Unternehmen, die komplexe Produkte entwickeln und herstellen.",
+    "paragraph2": "Die Software EAS Cockpit® scannt sämtliche relevante Systeme und Datenbanken Ihres Unternehmens umfassend.",
+    "paragraph3": "Die Lösung fokussiert ausschließlich das Produkt, dessen Baugruppen und Einzelteile. Es werden pro Bauteil alle Kennzahlen und entscheidungsrelevanten Informationen analysiert, bewertet und aggregiert im EAS Cockpit dargestellt. Beginnend beim Einzelteil kann man dann über die Komponente, Baugruppe, SET, Fachbereich, Gesamt-Produkt / -Projekt, Markt-Segment bis hin zum Gesamtunternehmen das Cockpit aggregieren.",
+    "paragraph4": "Dabei setzt die Software aktiv maßgeschneiderte, virtuelle, selbstlernende und kommunizierende KI-Agenten in einem neuronalen Netzwerk ein. Diese Agenten übernehmen vollständig die Arbeit der Software.",
+    "paragraph5": "Redundanzen, Inkonsistenzen, Fehler, (drohende) Kostenüberschreitungen oder andere Abweichungen werden identifiziert, die Daten konsolidiert und anschließend nach gewünschter Betrachtungsebene aggregiert im EAS Cockpit dargestellt.",
+    "paragraph6": "Diese übergreifende Transparenz schafft die Voraussetzung, Ihr Geschäft permanent überwachen und steuern zu können. Das wirkt sich unmittelbar auf Ihre Ressourcenallokation und die künftige Ergebnis-Entwicklung des Unternehmens aus.",
+    "paragraph7": "Darüber hinaus bietet unsere Software die Möglichkeit, tiefere Einblicke in den aktuellen Stand aller laufenden interdisziplinären Prozesse eines Entwicklungsprojektes gewinnen zu können (z. B. Sourcing-Stati, vorliegende Reifegrade, aktuelle Risikobewertung, Finanzauswertungen uvm.)."
+  },
+  "Footer": {
+    "menu": {
+      "home": "STARTSEITE",
+      "unternehmen": "UNTERNEHMEN",
+      "team": "TEAM",
+      "portfolio": "PRODUKT UND LEISTUNGS-PORTFOLIO",
+      "kontakt": "KONTAKT",
+      "dokumente": "DOKUMENTE",
+      "technology": "EAS Technology Mapp"
+    },
+    "newsletter": {
+      "title": "Abonnieren Sie unseren Newsletter",
+      "description": "In unregelmäßigen Abständen informieren wir Sie gerne über Änderungen, Release-Notes und Neuerungen unserer Produkte.",
+      "placeholder": "Ihre E-Mail eingeben",
+      "button": "ABONNIEREN",
+      "buttonLoading": "ABONNIEREN...",
+      "success": "Vielen Dank für Ihr Abonnement",
+      "error": "Nachricht konnte nicht gesendet werden."
+    },
+    "copy": {
+      "text": "2024 Enterprise Analytics Software GmbH",
+      "impressum": "Impressum",
+      "privacy": "Datenschutzerklärung"
+    }
+  },
+   "Cookie": {
+    "message": "Wir verwenden Cookies, um Ihnen ein optimales Erlebnis auf unserer Website zu bieten. Einige Cookies sind notwendig, um die grundlegenden Funktionen der Website zu gewährleisten, während andere uns helfen, Ihr Nutzerverhalten zu analysieren und unsere Dienstleistungen zu verbessern. Sie können auswählen, welche Cookies Sie zulassen möchten. Weitere Informationen finden Sie in unserer <a href='/datenschutzerklaerung' class='cookie_a'>Datenschutzerklärung</a>.",
+    "acceptAll": "Alle akzeptieren",
+    "acceptEssentials": "Nur essenzielle Cookies akzeptieren"
+  },
+  "Kollektiv": {
+    "block1": {
+      "paragraph1": "Die Enterprise Analytics Software GmbH entwickelt, adaptiert und betreibt voll autonome und automatisierte Analyse-, Monitoring- und Management-Software-Lösungen für Unternehmen, Arbeitsgemeinschaften, Großprojekte, Behörden, öffentliche Einrichtungen und andere Organisationen",
+      "paragraph2": "EAS neuronal® errichtet ein virtuelles Netzwerk aus spezialisierten EAS-KI-Agenten® und ist mehr als nur eine einfache Anwendungslösung von künstlicher Intelligenz. Es ist ein Team, virtueller Digitalisierungs-Experten, das selbstständig nahtlos zusammenarbeitet, um komplexe Analysen durchzuführen und Probleme zu lösen",
+      "paragraph3": "Die KI-Agenten scannen vollständig sämtliche Systeme, Datenbanken und Informationsquellen Ihres Unternehmens und außerhalb ihrer Organisation und tragen alle relevanten Informationen zusammen"
+    },
+    "block2": {
+      "paragraph1": "Mit Hilfe dieser selbstlernenden virtuellen Agenten, die in einem neuronalen Netzwerk miteinander verbunden sind, untereinander kommunizieren und voneinander lernen können, werden alle Daten in einem virtuellen EAS-Data-Lake®, analysiert, aufbereitet und bewertet. Dabei werden u.a. Inkonsistenzen, Fehler, Beschädigungen und unvollständige Informationen erkannt und aufgezeigt",
+      "paragraph2": "Jeder Agent bringt seine einzigartige Kompetenz ein, kommuniziert in Echtzeit mit den anderen und optimiert Entscheidungen im Millisekunden Bereich. Diese KI-Agenten sind ab der Einführung als zusätzliche Mitarbeiter in ihrem Unternehmen tätig, bringen ihnen als unzählige unsichtbare Helfer Ordnung in ihre Datenlandschaft und ersetzen alle bisherigen, manuellen Aktivitäten ihrer Mitarbeiter, wie Daten sammeln und aufbereiten, aggregieren, Abgleiche fahren und Reports erstellen"
+    },
+    "block3": {
+      "paragraph1": "Ob Datenanalyse, Prozessautomatisierung, Multiprojekt-Management oder kreative Ideenentwicklung. Sie bekommen nicht eine KI-Lösung, sondern ein intelligentes Ökosystem, das mit jeder Aufgabe wächst und selbst lernt",
+      "paragraph2": "Schneller. Schlauer. Effizienter. Willkommen in der Zukunft der künstlichen, vernetzten Intelligenz",
+      "paragraph3": "Darüber hinaus bietet unsere Software die Möglichkeit, tiefere Einblicke in den aktuellen Stand aller laufenden, interdisziplinären Prozesse gewinnen zu können (z.B. Sourcing-Stati, vorliegende Reifegrade, aktuelle Risikobewertung, Finanzauswertungen, Währungsrisiken, Lieferantenratings uvm.). Sprechen Sie uns gerne an"
+    }
+  },
+  
+  "ServiceSection": {
+    "title": "WAS WIR BIETEN",
+    "subtitle": "Leistungsbeschreibung EAS Cockpit",
+    "services": [
+      {
+        "text": "Produkt des Kunden wird zur zentralen Organisationseinheit",
+        "hoverText": "Gerne stellen wir Ihnen unser Produkt in einer Videokonferenz vor"
+      },
+      {
+        "text": "Vollumfängliche Transparenz in „Realtime“ über alle Daten und alle relevanten Einflussgrößen des Produktes; von der Einzelteil-Ebene bis zum Gesamtprodukt",
+        "hoverText": "Gerne stellen wir Ihnen unser Produkt in einer Videokonferenz vor"
+      },
+      {
+        "text": "Durchgängiges Monitoring des gesamten Produkt-Entwicklungsprozesses bis zur Serienfertigung",
+        "hoverText": "Gerne stellen wir Ihnen unser Produkt in einer Videokonferenz vor"
+      },
+      {
+        "text": "Software von EAS durchforstet mit virtuellen, auf Basis neuronaler künstlicher Intelligenz (NKI) programmierten Agenten, alle im Unternehmen und im World Wide Web vorhandenen Datenbanken und identifiziert alle produktrelevanten Daten.",
+        "hoverText": "Gerne stellen wir Ihnen unser Produkt in einer Videokonferenz vor"
+      },
+      {
+        "text": "Aufbereitung und Strukturierung der Daten nach allen relevanten Themengebieten auf allen bestehenden Ebenen (Bauteil, Stückliste, Baugruppe, Gesamtprodukt, Organisationseinheit) durch das EAS-Dashboard®",
+        "hoverText": "Gerne stellen wir Ihnen unser Produkt in einer Videokonferenz vor"
+      },
+      {
+        "text": [
+          "Denkbare Aggregationsebenen Cockpit",
+          "Gesamtunternehmen",
+          "Business Unit / z.B. Segment",
+          "Produkt und Derivate / Varianten",
+          "Fachbereiche (z.B. Karosserie, Fahrwerk, Elektrik- / Elektronik)",
+          "SET Simultaneous Engineering Team",
+          "Baugruppe / Komponente",
+          "Einzelteil"
+        ],
+        "hoverText": "Gerne stellen wir Ihnen unser Produkt in einer Videokonferenz vor"
+      }
+    ],
+    "button": "VEREINBAREN SIE EINEN TERMIN"
+  },
+  "Newsletter": {
+    "title": "Termin vereinbaren",
+    "paragraphs":"Gerne stellen wir Ihnen unser Produkt in einer Videokonferenz vor.Alternativ können wir auch einen persönlichen Termin vereinbaren.",
+    "button": "VEREINBAREN SIE EINEN TERMIN"
+  },
+   "Unternehmen": {
+    "heroTitle": "ENTWICKLUNG IN DEN UNTERNEHMEN",
+
+    "section1": {
+      "subtitle": "WER WIR ALS UNTERNEHMEN SIND",
+      "title": "Komplexität nimmt an allen Stellen überproportional und weitergehend zu",
+      "boxes": [
+        "Marktanforderungen (Innovation, KI, politische Anforderungen, Umwelt, Nachhaltigkeit)",
+        "Steigende Produktkomplexität und Variantenvielfalt bei kürzeren Produktlebens- und Innovations-Zyklen",
+        "Immer mehr unvorhersehbare und unkalkulierbare Einflussgrößen mit Wechselwirkungen in der Wertschöpfungskette und im Stakeholder-Netzwerk",
+        "Permanent wechselnde Rahmenbedingungen",
+        "Abschätzung und Antizipierung von künftigen Serienpreisen von Beschaffungsumfängen zunehmend schwieriger"
+      ]
+    },
+
+    "section2": {
+      "subtitle": "RESSOURCENVERBRAUCH",
+      "title": "Der Ressourcenverbrauch steigt in allen Unternehmensbereichen, über die gesamte Wertschöpfungskette hinweg und auch im Stakeholder-Netzwerk",
+      "boxes": [
+        "Volumen an Daten, Anzahl an IT-Systeme",
+        "Anzahl und Umfang an Organisationseinheiten - vor allem in den „indirekten Bereichen“ nimmt stetig zu",
+        "Administrationsaufwand steigt überproportional",
+        "Anzahl an „Dupletten“, Redundanzen und Fehlerpotenzial nimmt spürbar zu (z.B. Standardkomponente wird mit unterschiedlichen Artikelnummern in verschiedenen Systemen verwaltet)"
+      ]
+    },
+
+    "section3": {
+      "subtitle": "ENTSCHEIDUNGSGRUNDLAGEN",
+      "title": "Entscheidungen in komplexen Organisationseinheiten mit vielen Ebenen, Prozessen und Schnittstellen, werden auf Grundlage unvollständiger, falscher und manchmal widersprüchlicher Informationen getroffen",
+      "boxes": [
+        "„Objektivierte Subjektivität“ als Entscheidungsgrundlage produktwirtschaftlicher Überlegungen",
+        "Entscheidungszeiten und Abstimmungsschleifen werden immer länger bzw. größer",
+        "Es stehen nie alle möglichen Alternativen „sauber bewertet“ als Entscheidungsgrundlage zur Verfügung"
+      ]
+    },
+
+    "section4": {
+      "subtitle": "AUSWIRKUNGEN DER GENANNTEN ENTWICKLUNG AUF UNTERNEHMEN UND DEREN ORGANISATION",
+      "boxes": [
+        "Die Gewinnmarge erodiert im Zeitablauf und kann bis zu Beginn der Serienfertigung nicht aufrechterhalten werden",
+        "Zulieferumfänge (Material, Bauteile, Baugruppen etc.) stehen nicht rechtzeitig zum SOP / für die Serienfertigung zur Verfügung",
+        "Keine Lösung für den Produktentwicklungsprozess (PLC), den aktuellen Status aller produktrelevanten Informationen jederzeit darstellen zu können (z.B. Material- oder Teilepreis, Marge, Teileverfügbarkeit, Terminabweichungen, fehlende Zertifizierungen, Freigaben u.v.m.)",
+        "Vielzahl an Systemen, Softwares, Schnittstellenprobleme, Zugriffsberechtigungen, nicht durchgängige Prozesse, Daten- und Informationsverluste"
+      ],
+      "content": "Bisher gibt es keine vollintegrierte und prozessübergreifende Software-Lösung, welche alle das Produkt betreffenden Informationen bündelt, aggregiert / darstellt und einen sicheren und reibungslosen Durchlauf der erforderlichen Entwicklungsprozesse gewährleistet, obschon zahlreiche Krisen, wie z.B. die Wirtschaftskrise 2009 oder Corona 2020 gezeigt haben, dass es dringend erforderlich wäre, hier systematische Absicherungsmaßnahmen einzuleiten und umzusetzen"
+    },
+
+    "section5": {
+      "title": "DAS UNTERNEHMEN",
+      "boxes": [
+        "Dr. Nicolae Tudor und Volker P. Zimmerer MBA beschließen 2024 eine gemeinsame Zusammenarbeit zur Entwicklung neuronaler, KI-gestützter, integrativer Software Analyse Lösungen auf der Basis des „Big-Data-Ansätzes“",
+        "Eine bestehende Gesellschaft wird zur Enterprise Analytics Software GmbH umbenannt.",
+        "Die A&A Tudor Systems s.r.l. in Hermannstadt (Sibiu) Rumänien, firmiert nun als gemeinsame Entwicklungsgesellschaft Enterprise Analytics Software GmbH Romania s.r.l.",
+        "Die deutsche Vertriebsgesellschaft hat ihre Büroräume – zusammen mit den Räumlichkeiten der Unternehmensberatung Z management consulting von Volker P. Zimmerer – in der Stuttgarter Innenstadt im Collection Business Center"
+      ]
+    },
+
+    "section6": {
+      "subtitle": "WER WIR ALS UNTERNEHMEN SIND",
+      "title": "KUNDEN UND MÄRKTE",
+      "intro": "Unsere Softwarelösungen sind für Kunden unterschiedlichster Märkte geeignet. Grundsätzlich gilt: Je komplexer die nachfolgenden Punkte ausgeprägt sind, desto größer ist der potenzielle Hebel:",
+      "boxes": [
+        "Produkte selbst sind hinreichend komplex (bestehen aus vielen Baugruppen und Bauteilen)",
+        "Vielzahl an Produktvarianten oder Derivaten",
+        "Komplexe Beschaffungsstruktur (Vielzahl von Lieferanten und verschiedenste Beschaffungsumfänge)",
+        "Produkte entstehen im Rahmen eines typischen, mehrstufigen Produktentwicklungs- / Produktentstehungsprozesses...",
+        "Produkt kann im Zuge einer Auftragsfertigung oder einer Serienfertigung erstellt werden ..."
+      ]
+    },
+
+    "section7": {
+      "title": "BRANCHEN",
+      "boxes": [
+        "Automobilindustrie",
+        "Automobilzulieferindustrie",
+        "Nutzfahrzeugindustrie",
+        "Luft- & Raumfahrt-Industrie",
+        "Baumaschinen- und Landmaschinenindustrie",
+        "Rüstungsindustrie",
+        "Schiffahrtsindustrie",
+        "Maschinen- und Anlagenbau",
+        "Pharma-, Chemieindustrie und Medizintechnik",
+        "Lebensmittelindustrie",
+        "Bauindustrie",
+        "Bahnindustrie"
+      ]
+    }
+  },
+  "Team": {
+    "heroTitle": "Geschäftsführung / Board of Management",
+    "members": [
+      {
+        "name": "Nicolae Tudor",
+        "degree": "Dipl.-Ing. (univ.), Dr.-Ing.",
+        "role": "Geschäftsführender Gesellschafter",
+        "description": "Mathematiker, Software-Entwickler, Wissenschaftler, Autor und Projektmanager",
+        "phone": "+49 174 614 57 60",
+        "email": "nt@eas-corporation.com",
+        "experience": "20 Jahre Umsetzungserfahrung in über 40 leistungs-und finanzwirtschaftlichen Projekten als Interim CEO, CRO, CFO, CHRO in der Automobilindustrie, im Maschinen-und Anlagenbau, in der Metallverarbeitung, im Stahlbau, in der Holzindustrie und in der Texilindustrie Begleitung von Unternehmern und Unternehmen in ausgeprägten Sondersituationen; vor allem in Krisen-Phasen (Stakeholder-Krise bis zur Umsetzung von Insolvenzverfahren)"
+      },
+      {
+        "name": "Volker P. Zimmerer",
+        "degree": "Dipl.-Betriebswirt (FH), MBA",
+        "role": "Geschäftsführender Gesellschafter",
+        "description": "Unternehmer, Unternehmensberater, Interims-Manager, Investor, Coach & Mediator",
+        "phone": "+49 173 244 83 76",
+        "email": "vpz@eas-corporation.com",
+        "experience": "20 Jahre Umsetzungserfahrung in über 40 leistungs-und finanzwirtschaftlichen Projekten als Interim CEO, CRO, CFO, CHRO in der Automobilindustrie, im Maschinen-und Anlagenbau, in der Metallverarbeitung, im Stahlbau, in der Holzindustrie und in der Texilindustrie Begleitung von Unternehmern und Unternehmen in ausgeprägten Sondersituationen; vor allem in Krisen-Phasen (Stakeholder-Krise bis zur Umsetzung von Insolvenzverfahren)"
+      }
+    ]
+  },
+    "Product": {
+    "heroTitle": "PRODUKT- UND LEISTUNGSPORTFOLIO",
+    "section1": {
+        "heading": "KAPITEL : 1",
+        "title": "TECHNISCHER LÖSUNGSANSATZ",
+        "intro1": "A) In der heutigen technologischen Landschaft sind die Verwendung künstlicher Intelligenz (KI) und neuronaler Netzwerke von zentraler Bedeutung, da diese die Voraussetzung für den zeitgemäßen Abbau von organisatorischen Hürden und Schnittstellen darstellen.",
+        "lists1": [
+          "Es werden digitale EAS-KI-Agenten® eingesetzt, welche unterschiedliche Aufgaben zu lösen haben (z.B. Projekt-Agent, Einkaufsagent, Qualitäts-Agent, Duplikats-Agent uvm.)",
+          "Die Agenten sind darauf ausgerichtet, effizient und präzise zu arbeiten, um die gewünschten Ergebnisse zu erzielen",
+          "Die EAS-KI-Agenten® kommunizieren selbstständig und permanent im EAS-Neuronal-Netzwerk® untereinander"
+        ],
+        "intro2": "B) Dabei sind folgende Aufgabenstellungen im neuronalen Netzwerk umzusetzen:",
+        "lists2": [
+          "Darstellung / Vergleiche verschiedener Zustände aus der Vergangenheit und die Entwicklung über den Zeitablauf hinweg",
+          "Plan-/ Ist-Vergleiche",
+          "Reifegradspiegel (z.B. 53% Stand bei der Datenpflege, Voraussichtlicher Ist-Preis ggü. Contract-Price oder Target-Preis uvm.)",
+          "Präzise Simulationen für Prognosen, Szenarien, Sensitivitätsanalysen und Stresstests von Änderungen von Einflussgrößen des Produktes (wie z.B. Währungsentwicklung,Rohstoffpreis-Veränderungen, Teuerungszuschläge etc.)"
+        ],
+        "description": "Die EAS-Lösungen können durch die Verwendung fortschrittlicher Algorithmen und „Machine-Learning-Technologies“ komplexe Zusammenhänge erkennen und prognostizieren, um ihr Unternehmen, ihre Geschäftsbereiche, Produkte, Projekt, Baugruppen und Teile optimal zu planen und zu steuern. Damit schafft EAS die Basis für fundierte Entscheidungen auf der Grundlage objektiver Echt-Daten des Ist-Zustands. Insgesamt zeigt die Vision von KI-Agenten, die kooperativ und intelligent agieren, um komplexe Aufgaben zu bewältigen, ungeahnte und nicht überschaubare Potenziale. Die Symbiose von KI, neuronalen Netzwerken und Big-Data Analysen gibt es nur in den EAS Lösungen.",
+        "subdesc":"Ein neuronales Netzwerk ist ein Modell, das dem menschlichen Gehirn nachempfunden ist. Es besteht aus Schichten von Neuronen, die miteinander verbunden sind. Diese Schichten verarbeiten Informationen und lernen aus den bereitgestellten Daten. Mathematische Operationen und Lernalgorithmen ermöglichen es dem Netzwerk, komplexe Muster und Zusammenhänge in den Daten zu erkennen und zu verstehen. Ähnlich wie Ameisen in einer Kolonie müssen die KI-Agenten effizient miteinander kommunizieren. Dies kann über digitale Signale, Nachrichtenübertragung oder andere Mechanismen erfolgen. Die transparente Informationsübertragung zwischen den Agenten ist entscheidend, um die Gesamtleistung des Systems zu optimieren.",
+         "intro3": "C)  EAS KI-AGENTEN® kommunizieren selbstständig und permanent im lernenden EAS NEURONALEN NETZWERK® untereinander :",
+        "lists3": [
+          "verschiedene Zustände aus der Vergangenheit und die Entwicklung über den Zeitablauf hinweg",
+          "Plan-/ Ist-Vergleiche",
+          "Reifegradspiegel (z.B. 53% Stand Datenpflege, Voraussichtlicher Ist-Preis ist heute 3,7% über Target-Preis uvm.)",
+          "Präzise Simulationen für Prognosen, Szenarien, Sensitivitätsanalysen und Stresstests von Änderungen von Einflussgrößen des Produktes (wie z.B. Währungsentwicklung, Rohstoffpreisveränderungen)"
+        ],
+        "description1":"Die EAS-Lösungen können durch die Verwendung fortschrittlicher Algorithmen und „Machine-Learning-Technologies“ komplexe Zusammenhänge erkennen und prognostizieren, um Ihre Projekte und Produkte optimal zu planen und zu steuern. Das ist wiederum die Voraussetzung um fundierte Entscheidungen auf Basis objektiver Ist-Daten zu treffen. Insgesamt zeigt die Vision von KI-Agenten, die kooperativ und intelligent agieren, um komplexe Aufgaben zu bewältigen, großes Potenzial."
+      },
+      "section2":{
+        "heading":"KAPITEL : 2",
+        "title": "USER INTERFACE AND DASHBOARD",
+        "description1":"Das Dashboard bietet zwei Analyse-Ebenen:",
+        "listTitle1":"Geschäftsebene :",
+        "listDes1":"Auf Geschäftsebene ermöglicht das Dashboard eine umfassende Bewertung der gesamten Unternehmenssituation, indem es alle relevanten Daten von verschiedenen der Einzelteile, Baugruppen, Produkte pro Geschäftsbereich, Segment, Business Unit zusammenführt und aggregiert. Es können gezielt organisatorische Einheiten identifiziert werden, die nicht optimal bzw. ausreichend funktionieren. Hier ermöglicht die Software eine Visualisierung aller denkbaren Ebenen des Unternehmens.",
+        "listTitle2":"Prozessebene :",
+        "listDes2":"Auf Prozessebene ermöglicht die EAS-Cockpit Software eine detaillierte Analyse bis auf Einzelprozessebene und ist auch hier in der Lage, ablauftechnische Defizite herauszuarbeiten.Beide Analyse-Perspektiven schaffen für das Top-Management die Voraussetzungen, schnell Schwachstellen identifizieren und zielgerichtet eliminieren zu können."
+      },
+      "section3":{
+        "heading":"KAPITEL : 3",
+        "title": "ENTWICKLUNG EAS SOFTWARE UND DASHBOARD",
+        "description": "<p>Bei den Herstellern besteht zunehmend die Notwendigkeit, die Gewinnmarge der eigenen Produktpalette sicherstellen zu können. Mit diversen Analysen kann eindeutig nachgewiesen werden, dass das für das (Neu-) Produkt vorgesehene Material und die Vorprodukte unvorhersehbaren Einflüssen und damit Risiken unterliegen, die sich häufig schon auf das wirtschaftliche Produktergebnis auswirken, bevor das Produkt in Serie ist.</p><p>EAS sieht das Produkt- & Leistungsspektrum und das Portfolio des Unternehmens als elementarste Unternehmensgröße an und fokussiert sich aus diesem Grund ausschließlich auf diese Betrachtungsperspektive</p>",
+        "strong": "Die Wirtschaftskrisen und Phasen der extremen Abkühlung (2009, 2012, 2019 und 2020) haben in immer kürzer werdenden Abständen die Unternehmenslandschaft existenziell belastet. Viele Produktportfolios sind flächendeckend nicht mehr wirtschaftlich und sichern somit nicht mehr die Existenz des Unternehmens ab"
+      },
+      "section4":{
+        "heading":"KAPITEL : 4",
+        "title": "DEFIZITE AKTUELLER MARKTLÖSUNGEN",
+        "boxes": [
+          { "title": "Fehlender Produkt- / Projektbezug Einzelkomponenten", "desc": "Bestehende Lösungen bilden die Einzelbauteilebene ab; der Bezug zum Produkt ist nicht vorhanden." },
+          { "title": "Nur isolierte Lösungen einzelner Prozessschritte (z.B. Einkauf)", "desc": "Die eingesetzte Software bietet nur Lösungen für einzelne Prozesschritte des mehrstufigen Projekteinkaufsprozesses, was eine vollumfängliche Digitalisierung und schnelle Reaktionen in kritischen Phasen erschwert." },
+          { "title": "Daten verlassen das Unternehmen", "desc": "Hochsensible Einkaufsdaten müssen durch den Anwender auf teilweise cloudbasierten Servern (China) an die Dienstleister übertragen werden." }
+        ]
+      },
+      "section5":{
+        "heading":"KAPITEL : 5",
+        "title": "INTEGRATIION KUNDENSYSTEME"
+      }
+    
+  },
+   "Contact": {
+    "heroTitle": "STANDORTE UND KONTAKT",
+    "subtitle": "Kontaktieren Sie uns",
+    "heading": "Wir freuen uns auf Ihre Fragen und vereinbaren gerne einen Termin mit Ihnen",
+    "callTitle": "Rufen Sie uns an",
+    "phone": "Tel: + 49 711 – 490 50 391",
+    "fax": "Fax: + 49 711 – 490 50 25",
+    "emailTitle": "E-Mail-Informationen",
+    "addressTitle": "Adresse",
+    "address": "Enterprise Analytics Software GmbH <br /> Königstrasse 27 <br /> 70173 Stuttgart / Germany",
+    "formTitle": "Kontaktieren Sie uns",
+    "form": {
+      "name": "Ihr Name",
+      "email": "Ihre E-Mail",
+      "phone": "Ihre Telefonnummer",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "privacy": "Informationen zum Datenschutz in Bezug auf Ihre Anfrage finden Sie hier:",
+      "privacyLink": "Datenschutzrichtlinie.",
+      "submit": "SENDEN",
+      "sending": "Senden..."
+    },
+    "success": "Ihre Nachricht wurde erfolgreich gesendet!",
+    "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es später erneut."
+  },
+  "Documents": {
+    "heroTitle": "DOKUMENT UND WEITERFÜHRENDE INFORMATIONEN",
+    "download": "HERUNTERLADEN",
+    "list": [
+      {
+        "title": "Allgemeine Geschäftsbedingungen (AGB)",
+        "desc": "Mit den AGB regeln wir die grundsätzlichen, vertraglichen Rahmenbedingungen der Zusammenarbeit zwischen dem Kunden und Enterprise Analytic Software GMBH.",
+        "link": "/"
+      },
+      {
+        "title": "Allgemeines Einkaufsbedingungen (AEB)",
+        "desc": "Die allgemeinen Einkaufsbedingungen skizzieren die vertraglichen Eckpunkte, die wir für eine funktionierende und zielorientierte Beschaffung unserer Produkte und Dienstleistungen bei unseren Netzwerkpartnern und anderen Lieferanten benötigen",
+        "link": "/"
+      },
+      {
+        "title": "EAS Flyer / One Pager Deutsch",
+        "desc": "Hier kommt in Kürze ein weiteres Dokumente hinzu",
+        "link": "/"
+      },
+      {
+        "title": "EAS Flyer / One Pager Englisch",
+        "desc": "Hier kommt in Kürze ein weiteres Dokumente hinzu",
+        "link": "/"
+      },
+      {
+        "title": "EAS Produktpräsentation EAS Cockpit® Englisch",
+        "desc": "Hier kommt in Kürze ein weiteres Dokumente hinzu",
+        "link": "/"
+      },
+      {
+        "title": "EAS Flyer / Einkaufsplattform VOENICS Deutsch",
+        "desc": "Hier kommt in Kürze ein weiteres Dokumente hinzu",
+        "link": "/"
+      }
+    ]
+  },
+   "EAS_Technology_banner": {
+    "heading": "ENTERPRISE ANALYTICS SOFTWARE GmbH",
+    "subheading": "USP und Know-how"
+  },
+   "TechnologyMapps": {
+    "heading": "EAS Technologie Karte",
+    "language": "Programmiersprachen",
+    "document": "Dokumentation & Spezifikation",
+    "Ides": "IDEs (Integrierte Entwicklungsumgebungen)",
+    "Version": "Versionskontrolle",
+    "Backend": "Backend",
+    "Databases": "Datenbanken",
+    "Frontend": "Frontend",
+    "Mobile": "Mobil",
+    "DevOps": "DevOps",
+    "Desktop": "Desktop",
+    "dataSience": "Datenwissenschaft & ML & KI & Visualisierungen",
+    "Iot": "IoT + Cellular IoT + Embedded",
+    "Observability": "Observability",
+    "TestAutomation": "Testautomatisierung & RPA",
+    "BuildTools": "Build-Tools",
+    "Networking": "Netzwerke",
+    "PackageManagement": "Paketverwaltung"
+  }
+}
