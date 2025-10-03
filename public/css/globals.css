@@ -360,9 +360,7 @@ header {
   gap: 64px;
 }
 
-.service-wrapper .com-title {
-  /* text-align: center; */
-}
+
 
 .service-boxs {
   display: flex;
@@ -756,9 +754,7 @@ input {
   top: 7px;
 }
 
-.unter-analy-box img {
-  /* height: 450px; */
-}
+
 
 .unter-img {
   display: flex;
@@ -837,9 +833,7 @@ input {
   text-align: center;
 }
 
-.unter-analy.unter-analy-ti .com-title span {
-  /* text-align: center; */
-}
+
 
 .unter-analy.unter-analy-ti .com-title h2 {
   color: var(--sec-color);
@@ -1710,8 +1704,8 @@ strong {
 .kollektiv-container {
   display: flex;
   justify-content: center;
-  align-items: flex-start;
-  flex-direction: row;
+  align-items: center;
+  flex-direction: column;
   gap: 50px;
   padding-top: 50px;
   padding-bottom: 50px;
@@ -1719,13 +1713,31 @@ strong {
 
 /* Left Side (Video) */
 .kollektiv-video {
-  flex: 1;
-  max-width: 50%;
-  aspect-ratio: 16/9;
-  position: sticky;
-  top: 100px;
+  /* flex: 1;
+  max-width: 50%; */
+  /* aspect-ratio: 16/9; */
+  /* position: sticky;
+  top: 100px; */
+  width:80%
 }
-
+.swiper-button-prev, .swiper-button-next {
+    background: #084887;
+    border-radius: 50%;
+}
+svg.swiper-navigation-icon {
+    width: 20px !important;
+    height: 20px !important;
+}
+svg.swiper-navigation-icon path {
+    fill: #fff !important;
+    stroke: #fff !important;
+}
+span.swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background: #084887 !important;
+}
+.swiper-pagination{
+  display: none !important;
+}
 .kollektiv-video video {
   width: 100%;
   height: 100%;
@@ -1736,8 +1748,9 @@ strong {
 
 /* Right Side (Content) */
 .kollektiv-content {
-  flex: 1;
-  max-width: 50%;
+  /* flex: 1;
+  max-width: 50%; */
+  width:80%;
 }
 
 .kollektiv-content h2 {
@@ -1773,61 +1786,154 @@ strong {
   position: relative;
 }
 
-.lang-toggle {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  padding: 5px 10px;
-  border: 1px solid #000;
-  border-radius: 4px;
-  background: #fff;
-  font-weight: bold;
+/* language dropdown css */
+
+
+/* --- Dropdown Container --- */
+.country-dropdown-container {
+    position: relative;
+    width: 130px; /* Set a fixed width */
 }
 
-.header-wrapper {
-          display: flex;
-          align-items: center;
-          justify-content: space-between;
-          position: relative;
-        }
-        .lang-dropdown ul li{
-          margin-bottom: 0px !important;
-          border-bottom: 0.5px solid #000;
-        }
-        .lang-dropdown ul li a{
-          color: #000;
-        }
-        .lang-dropdown {
-          position: relative;
-          cursor: pointer;
-          padding: 5px 28px;
-          border: 1px solid #ccc;
-          border-radius: 5px;
-        }
-        .lang-menu {
-          position: absolute;
-          top: 110%;
-          left: 0px;
-          list-style: none;
-          background: #fff;
-          border: 1px solid #ccc;
-          display: none;
-          padding: 0;
-          margin: 0;
-          width: 80px;
-          text-align: center;
-          border-radius: 5px;
-          z-index: 999;
-        }
-        .lang-menu.open {
-          display: block;
-        }
-        .lang-menu li {
-          padding: 3px 0;
-        }
-        .lang-menu li:hover {
-          background: #f0f0f0;
-        }
+.country-dropdown-container p:not(:last-child),
+li:not(:last-child, .f-menu ul li) {
+  margin-bottom: 0px;
+}
+/* --- Selected Country Button --- */
+.selected-country {
+    /* Style to match the dark theme and selected state */
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 15px 15px;
+    border: 1px solid #444; /* Subtle border */
+    border-radius: 6px;
+    background-color: rgb(8, 72, 135); /* Slightly lighter than options */
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: left;
+    transition: background-color 0.2s;
+    outline: none;
+    box-shadow: 0 4px 6px rgb(8, 72, 135);
+}
+
+.selected-country:hover {
+    background-color: rgb(8, 72, 135);
+}
+
+/* --- Dropdown List --- */
+.country-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 5px;
+    background-color: rgb(8, 72, 135);
+    border-radius: 6px;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+
+    display: none; /* hide by default */
+}
+
+.country-list.open {
+    display: block; /* show when .open class is applied */
+}
+
+.country-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+
+.country-item img {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+/* Add rounded corners to the first and last items of the list */
+.country-list li:first-child {
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+.country-list li:last-child {
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.country-item:hover {
+    background-color: #383838; /* Hover effect */
+}
+
+/* --- Shared Element Styling (Country Name, Code, Flag) --- */
+
+.country-name {
+    margin-right: auto; /* Pushes the country code and arrow to the right */
+    font-weight: 500;
+}
+
+.country-code {
+    color: #fff;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.country-code img {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.country-item a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Flag Icon Styling (Using content property for placeholder 'flags') */
+.flag-icon {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    background-size: cover;
+    display: inline-block;
+    border-radius: 50%; /* Optional: for a round flag look */
+    /* Placeholder for actual flag image/icon */
+    text-align: center;
+    line-height: 25px;
+    font-size: 18px;
+}
+
+/* Custom "Flags" (using emojis for a pure CSS solution) */
+.uk::before { content: "EN"; }
+.de::before { content: "🇩🇪"; }
+
+/* Dropdown Arrow Icon (Using a CSS triangle) */
+.dropdown-arrow {
+    width: 0;
+    height: 0;
+    margin-left: 10px;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #fff;
+    display: inline-block;
+    transition: transform 0.2s;
+}
+
+.dropdown-arrow.open {
+    transform: rotate(180deg); /* point upwards when open */
+}
+
+
 /* Responsive for mobile */
 
 @media (min-width: 768px) {
@@ -1838,10 +1944,10 @@ strong {
     break-inside: avoid;
   }
 
-  .kollektiv-video,
+  /* .kollektiv-video,
   .kollektiv-content {
     max-width: 100%;
-  }
+  } */
 }
 
 @media (min-width: 1240px) {
@@ -2037,10 +2143,6 @@ strong {
 
   .unter-analy-box {
     padding: 32px;
-  }
-
-  .unter-analy-box img {
-    /* height: 300px; */
   }
 
   .unter-postion-img img {
@@ -2245,9 +2347,9 @@ strong {
   .review-text {
     padding: 0 20px;
   }
-  .kollektiv-video {
+  /* .kollektiv-video {
     aspect-ratio: 10 / 9;
-  }
+  } */
 }
 
 @media (max-width: 768px) {
@@ -2300,7 +2402,7 @@ strong {
     line-height: 32px;
   }
   .kollektiv-video {
-    aspect-ratio: 2 / 1;
+    /* aspect-ratio: 2 / 1; */
     position: relative;
     top: 0;
     max-width: 100%;
@@ -2548,6 +2650,12 @@ strong {
   .team-wrapper {
     gap: 24px;
   }
+  .swiper-button-prev, .swiper-button-next{
+    display:none !important;
+  }
+  .swiper-pagination{
+  display: block !important;
+}
 }
 
 @media (max-width: 500px) {
